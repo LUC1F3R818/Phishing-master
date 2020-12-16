@@ -1,5 +1,5 @@
 #!/bin/bash
-cp phishing.sh /sdcard
+cp install.sh /sdcard
 echo"
 ░░░░░░░░░░░░░░░▓▓███████▓▒░░░░░░░░░░░░░░░
 ░░░░░░░░░░░▓██████▓▓▓▓▓██████▓░░░░░░░░░░░
@@ -53,4 +53,5 @@ echo"
 ░░░░░░░░░░░░░░░░████▓▓█▓████░░░░░░░░░░░░░
 
 "
-python phishing.py
+python Y4H1K0.py
+
